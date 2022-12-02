@@ -18,6 +18,7 @@
                              
 ### About me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:phunseong@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://hungseong.tistory.com/)
 #
 
 [![HunSeongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunSeongPark&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
