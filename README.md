@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome, I'm HunSeongPark! 😎
 [![HunSeongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunSeongPark&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
