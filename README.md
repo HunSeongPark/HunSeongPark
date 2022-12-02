@@ -9,11 +9,11 @@
 #
 
 ### Skills 💻
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Air_China&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> 
-<img src="https://img.shields.io/badge/jacoco-C9284D?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/jacoco-C9284D?style=for-the-badge&logo=Joplin&logoColor=white"> 
 <br>
   
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&fontColor=white">  
