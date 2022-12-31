@@ -22,8 +22,8 @@
 <br>
 
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&fontColor=white">            
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">ㅇ
-#
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+# H1
   
 ### Education 📚
 2017 ~ : Kwangwoon University, Dept of Computer Information Engineering
