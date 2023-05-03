@@ -24,7 +24,7 @@
 #
 
 ### Education 📚
-2017 ~ : Kwangwoon University, Dept of Computer Information Engineering
+2017.03 ~ 2024.02 : Kwangwoon University, Dept of Computer Information Engineering
 #
                              
 ### More ➕
