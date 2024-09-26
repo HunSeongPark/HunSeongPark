@@ -24,7 +24,7 @@
 #
 
 ### Careers 📚
-2024.10 ~ : 토스페이먼츠 백엔드 개발자
+2024.10 ~ : 토스페이먼츠 백엔드 개발자                
 2023.08 ~ 2024.10 : 중고나라 상품서비스개발팀 백엔드 개발자 - 결제/배송 서비스 개발                  
 2017.03 ~ 2024.02 : Kwangwoon University, Dept of Computer Information Engineering
 #
